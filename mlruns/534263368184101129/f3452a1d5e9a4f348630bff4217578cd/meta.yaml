@@ -1,0 +1,14 @@
+artifact_uri: file:D:/mlops/customer-churn-mlops/mlruns/534263368184101129/f3452a1d5e9a4f348630bff4217578cd/artifacts
+end_time: 1780085567626
+entry_point_name: ''
+experiment_id: '534263368184101129'
+lifecycle_stage: active
+run_id: f3452a1d5e9a4f348630bff4217578cd
+run_name: victorious-crane-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780085551954
+status: 3
+tags: []
+user_id: prathamesh.patil

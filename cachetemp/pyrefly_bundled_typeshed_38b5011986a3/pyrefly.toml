@@ -1,0 +1,34 @@
+project-excludes = [
+    "**/node_modules",
+    "**/__pycache__",
+    '**/venv/**\*',
+    'C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3568.0_x64__qbz5n2kfra8p0\DLLs',
+    'C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3568.0_x64__qbz5n2kfra8p0',
+    'C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages',
+]
+python-platform = "win32"
+python-version = "3.13.13"
+site-package-path = []
+permissive-ignores = true
+enabled-ignores = [
+    "type",
+    "pyrefly",
+    "pyright",
+    "mypy",
+    "ty",
+    "pyre",
+    "zuban",
+]
+check-unannotated-defs = true
+infer-return-types = "checked"
+disable-type-errors-in-ide = true
+ignore-errors-in-generated-code = false
+infer-with-first-use = true
+tensor-shapes = false
+strict-callable-subtyping = false
+spec-compliant-overloads = false
+
+[errors]
+bad-override-param-name = "ignore"
+invalid-variance = "ignore"
+bad-override = "ignore"

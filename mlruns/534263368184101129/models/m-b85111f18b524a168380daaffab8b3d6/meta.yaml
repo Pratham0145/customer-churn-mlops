@@ -1,0 +1,10 @@
+artifact_location: file:D:/mlops/customer-churn-mlops/mlruns/534263368184101129/models/m-b85111f18b524a168380daaffab8b3d6/artifacts
+creation_timestamp: 1780085553023
+experiment_id: '534263368184101129'
+last_updated_timestamp: 1780085567589
+model_id: m-b85111f18b524a168380daaffab8b3d6
+model_type: null
+name: churn_model
+source_run_id: f3452a1d5e9a4f348630bff4217578cd
+status: 2
+status_message: null
