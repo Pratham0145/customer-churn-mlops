@@ -5,11 +5,11 @@ __pycache__/
 # Virtual Environment
 venv/
 
-# Data
-data/
+# # Data
+# data/
 
-# Models
-models/
+# # Models
+# models/
 
 # MLflow
 mlruns/
