@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Data
+data/
+
+# Models
+models/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Cache
+cachepip/
+cachepycache/
+cachetemp/
+
+# OS Files
+.DS_Store
+Thumbs.db
